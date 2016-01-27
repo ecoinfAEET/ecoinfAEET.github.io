@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-![logo]({{ site.url }}/images/logo/ecoinf_10.jpg)
-
 El grupo de trabajo **Ecoinformática** de la Asociación Española de Ecología Terrestre pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación. 
 
 Para mas información 
