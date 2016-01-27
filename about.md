@@ -12,10 +12,21 @@ El grupo de trabajo **Ecoinformática** de la Asociación Española de Ecología
 Para mas información 
 
 ## Personal de Contacto
-| Francisco Rodríguez Sánchez Estación Biológica de Doñana (EBD-CSIC) Avda. Américo Vespucio s/n  41092 Sevilla f.rodriguez.sanc@gmail.com                                   | Ignasi Bartomeus Estación Biológica de Doñana (EBD-CSIC) Avda. Américo Vespucio s/n 41092 Sevilla ibartomeus@ebd.csic.es                                                                         |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sara Varela Departamento de Ciencias de la Vida Edificio de Ciencias, Campus Externo, Universidad de Alcalá  28805 Alcalá de Henares, Madrid svarela@paleobiogeography.org | Antonio J. Pérez-Luque Laboratorio de Ecología  Instituto Interuniversitario del Sistema Tierra de Andalucía- Universidad de Granada  Avda. del Mediterráneo s/n 18006 Granada  ajpelu@gmail.com |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-031e">Francisco Rodríguez Sánchez<br>Estación Biológica de Doñana (EBD-CSIC)<br>Avda. Américo Vespucio s/n <br>41092 Sevilla<br>f.rodriguez.sanc@gmail.com</th>
+    <th class="tg-031e">Ignasi Bartomeus<br>Estación Biológica de Doñana (EBD-CSIC)<br>Avda. Américo Vespucio s/n<br>41092 Sevilla<br>ibartomeus@ebd.csic.es</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">Sara Varela<br>Departamento de Ciencias de la Vida<br>Edificio de Ciencias, Campus Externo, Universidad de Alcalá <br>28805 Alcalá de Henares, Madrid<br>svarela@paleobiogeography.org</td>
+    <td class="tg-031e">Antonio J. Pérez-Luque<br>Laboratorio de Ecología <br>Instituto Interuniversitario del Sistema Tierra de Andalucía- Universidad de Granada <br>Avda. del Mediterráneo s/n<br>18006 Granada <br>ajpelu@gmail.com</td>
+  </tr>
+</table>
 
 
 
