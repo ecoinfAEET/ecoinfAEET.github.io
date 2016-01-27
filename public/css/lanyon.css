@@ -537,6 +537,17 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* Ecoinformatica */
+.theme-base-0g .sidebar,
+.theme-base-0g .sidebar-toggle:active,
+.theme-base-0g #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #339967;
+}
+.theme-base-0g .container a,
+.theme-base-0g .sidebar-toggle,
+.theme-base-0g .related-posts li a:hover {
+  color: #339967;
+}
 
 /*
  * Overlay sidebar
