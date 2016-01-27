@@ -7,24 +7,15 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+El grupo de trabajo **Ecoinformática** de la Asociación Española de Ecología Terrestre pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación. 
 
-There are currently two themes built on Poole:
+Para mas información 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Personal de Contacto
+| Francisco Rodríguez Sánchez Estación Biológica de Doñana (EBD-CSIC) Avda. Américo Vespucio s/n  41092 Sevilla f.rodriguez.sanc@gmail.com                                   | Ignasi Bartomeus Estación Biológica de Doñana (EBD-CSIC) Avda. Américo Vespucio s/n 41092 Sevilla ibartomeus@ebd.csic.es                                                                         |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sara Varela Departamento de Ciencias de la Vida Edificio de Ciencias, Campus Externo, Universidad de Alcalá  28805 Alcalá de Henares, Madrid svarela@paleobiogeography.org | Antonio J. Pérez-Luque Laboratorio de Ecología  Instituto Interuniversitario del Sistema Tierra de Andalucía- Universidad de Granada  Avda. del Mediterráneo s/n 18006 Granada  ajpelu@gmail.com |
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
