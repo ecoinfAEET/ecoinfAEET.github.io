@@ -19,5 +19,3 @@ Los principales objetivos de este grupo de trabajo son:
 
 
 [Contacto](about.md) 
-
-[Name of Link]({% post_url about %})
