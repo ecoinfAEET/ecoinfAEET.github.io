@@ -18,4 +18,4 @@ Los principales objetivos de este grupo de trabajo son:
 * Promover los principios de ciencia abierta y reproducible.
 
 
-[Contacto]({% post_url about %})
+[Contacto](/about.md)
