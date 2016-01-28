@@ -18,4 +18,10 @@ Los principales objetivos de este grupo de trabajo son:
 * Promover los principios de ciencia abierta y reproducible.
 
 
-[Contacto](about) 
+Contacta con nosotros:
+
+* [<i class="fa fa-twitter fa-3x"></i>](https://twitter.com/ecoinf_aeet)
+
+
+
+[Acerca de este grupo](about) 
