@@ -20,7 +20,7 @@ Los principales objetivos de este grupo de trabajo son:
 
 Contacta con nosotros:
 
-* [<i class="fa fa-twitter fa-3x"></i>](https://twitter.com/ecoinf_aeet)
+[<i class="fa fa-twitter fa-3x"></i>](https://twitter.com/ecoinf_aeet) [<i class="fa fa-github fa-3x"></i>](http://github.com/ecoinfaeet) [<i class="fa fa-envelope fa-3x"></i>](mailto:ecoinf.aeet@gmail.com)
 
 
 
