@@ -25,3 +25,5 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/ecoinfAEET/ecoinfAEET.github.io
+
+gems: [jekyll-paginate]
