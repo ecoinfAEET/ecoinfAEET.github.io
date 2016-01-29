@@ -20,7 +20,10 @@ Los principales objetivos de este grupo de trabajo son:
 
 Contacta con nosotros:
 
-[<i class="fa fa-twitter fa-3x"></i>](https://twitter.com/ecoinf_aeet){:target="_blank"} [<i class="fa fa-github fa-3x"></i>](http://github.com/ecoinfaeet){:target="_blank"}  [<i class="fa fa-envelope fa-3x"></i>](mailto:ecoinf.aeet@gmail.com) [<i class="fa fa-list fa-2x"></i>](https://groups.google.com/forum/#!forum/ecoinformatica_aeet){:target="_blank"} 
+[<i class="fa fa-twitter fa-3x"></i>](https://twitter.com/ecoinf_aeet){:target="_blank"} [<i class="fa fa-github fa-3x"></i>](http://github.com/ecoinfaeet){:target="_blank"}  [<i class="fa fa-envelope fa-3x"></i>](mailto:ecoinf.aeet@gmail.com) 
+
+Únete a nuestra lista de correo: 
+[<i class="fa fa-list fa-2x"></i>](https://groups.google.com/forum/#!forum/ecoinformatica_aeet){:target="_blank"} 
 
 
 [Acerca de este grupo](about) 
