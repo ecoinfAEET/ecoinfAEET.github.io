@@ -22,15 +22,17 @@ A continuación os indicamos unas instrucciones básicas para poder escribir ent
 
 Si queremos añadir un trozo de código podemos hacerlo del siguiente modo. Hemos de incluir el código entre dos líneas especiales: 
 
-* inicio: `{% highlight r %}`
-* fin: `{% endhighlight %}`
+* inicio: {% highlight r %}
+* fin: {% endhighlight %} 
 
 Por ejemplo si escribimos 
 
-`{% highlight r %}
+```
+{% highlight r %}
 df <- data.frame(x = rep(1,5, by=1),
 y = rep(10,50, by=10)) 
-{% endhighlight %}`
+{% endhighlight %}
+```
 
 aparecerá 
 
