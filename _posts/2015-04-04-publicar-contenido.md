@@ -21,15 +21,16 @@ A continuación os indicamos unas instrucciones básicas para poder escribir ent
 * Las entradas se alojarán en la carpeta `_posts`
 
 ## Algunos elementos 
+
 ### Código 
 Si queremos añadir un trozo de código podemos hacerlo del siguiente modo. Hemos de incluir el código entre dos líneas especiales: 
 
-* inicio: `{% highlight r %}`
-* fin: `{% endhighlight %}` 
+* inicio: {% highlight %}
+* fin: {% endhighlight %} 
 
 Por ejemplo si escribimos 
 
-{% highlight text %}
+{% highlight lenguaje %}
 df <- data.frame(x = rep(1,5, by=1),
 y = rep(10,50, by=10)) 
 {% endhighlight %}
@@ -42,12 +43,19 @@ y = rep(10,50, by=10))
 {% endhighlight %} 
 
 ### Imágenes 
-* Todas las imágenes han de ser alojadas dentro la carpeta `/images/` 
-* Las sintáxis para una imagen en una entrada es similar a la utilizada por Markdown, con una pequeña modificación. Así escribiremos 
+* Todas las imágenes tiene que estar alojadas dentro la carpeta `/images/` 
+* Las sintáxis para incluir una imagen en una entrada es similar a la utilizada por Markdown, con una pequeña modificación. Así escribiremos:  
 
 
 {% highlight text %}
-![logo]({{ site.url }}/images/logo/ecoinf_10.jpg)
+![logo]({{ site.url }}/images/nombre_del_archivo.jpg)
 {% endhighlight %}
 
+Por ejemplo para incluir la imagen `ecoinf_10.jpg` el código sería: 
+
+{% highlight text %}
+![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
+{% endhighlight %}
+
+![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
 
