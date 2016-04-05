@@ -25,12 +25,9 @@ A continuación os indicamos unas instrucciones básicas para poder escribir ent
 ### Código 
 Si queremos añadir un trozo de código podemos hacerlo del siguiente modo. Hemos de incluir el código entre dos líneas especiales: 
 
-* inicio: {% highlight %}
-* fin: {% endhighlight %} 
-
 Por ejemplo si escribimos 
 
-{% highlight lenguaje %}
+{% highlight %}
 df <- data.frame(x = rep(1,5, by=1),
 y = rep(10,50, by=10)) 
 {% endhighlight %}
