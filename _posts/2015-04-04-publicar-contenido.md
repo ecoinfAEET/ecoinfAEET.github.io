@@ -1,6 +1,8 @@
 ---
 layout: post
 title: test how to contribute
+category: Dev
+tags: [web, jekyll]
 --- 
 
 # Instrucciones para escribir entradas. 
@@ -47,7 +49,7 @@ y = rep(10,50, by=10))
 
 
 {% highlight text %}
-![logo]({% raw %}{{{ site.url }}{% endraw %}/images/nombre_del_archivo.jpg)
+![texto]({% raw %}{{ site.url }}{% endraw %}/images/nombre_del_archivo.jpg)
 {% endhighlight %}
 
 Por ejemplo para incluir la imagen `ecoinf_10.jpg` el código sería: 
