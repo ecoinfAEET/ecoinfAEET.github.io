@@ -20,7 +20,7 @@ A continuación os indicamos unas instrucciones básicas para poder escribir ent
 
 * Las entradas se alojarán en la carpeta `_posts`
 
-## Algunos elementos 
+## Añadir elementos a nuestra entrada
 
 ### Código 
 Si queremos añadir un trozo de código podemos hacerlo del siguiente modo. Hemos de incluir el código entre dos líneas especiales: 
