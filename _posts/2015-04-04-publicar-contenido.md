@@ -47,13 +47,13 @@ y = rep(10,50, by=10))
 
 
 {% highlight text %}
-![logo]({{ site.url }}/images/nombre_del_archivo.jpg)
+![logo]({% raw %}{{{ site.url }}{% endraw %}/images/nombre_del_archivo.jpg)
 {% endhighlight %}
 
 Por ejemplo para incluir la imagen `ecoinf_10.jpg` el código sería: 
 
 {% highlight text %}
-![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
+![logo]({% raw %}{{ site.url }}{% endraw %}/images/logo/ecoinf_10.jpg)
 {% endhighlight %}
 
 ![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
