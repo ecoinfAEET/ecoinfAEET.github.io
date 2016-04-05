@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test how to contribute
+title: Publicar Contenido
 --- 
 
 # Instrucciones para escribir entradas. 
