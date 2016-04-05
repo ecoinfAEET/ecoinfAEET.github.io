@@ -1,8 +1,6 @@
 ---
 layout: post
 title: test how to contribute
-category: Dev
-tags: [web, jekyll]
 --- 
 
 # Instrucciones para escribir entradas. 
