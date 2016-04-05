@@ -27,7 +27,7 @@ Si queremos añadir un trozo de código podemos hacerlo del siguiente modo. Hemo
 
 Por ejemplo si escribimos 
 
-{% highlight %}
+{% highlight text %}
 df <- data.frame(x = rep(1,5, by=1),
 y = rep(10,50, by=10)) 
 {% endhighlight %}
