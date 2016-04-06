@@ -4,18 +4,13 @@ layout: default
 
 {% assign tag_words = page.tags %}
 
-{% assign author = site.data.authors[page.author] %}
-<a rel="author"
-  href="{{ author.twitter }}"
-  title="{{ author.name }}">
-    {{ author.name }}
-</a>
-
-
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-title-footer">
   <span class="post-date" style="display:inline-block">{{ page.date | date_to_string }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span class="author-name">
+  {{ site.data.authors.[page.author].name }}
+  </span>
   <span class="post-tag-box" style="display:inline-block;">
    {% for item in (0..page.tags.size) %}{% unless forloop.last %}
      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
