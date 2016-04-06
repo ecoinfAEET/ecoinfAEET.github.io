@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publicar Contenido
-author: antonioj_perez, sara_varela
+author: antonioj_perez
 tags: [web, github, compartir datos]
 --- 
 
