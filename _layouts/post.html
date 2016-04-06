@@ -7,19 +7,19 @@ layout: default
   <!-- Look the author details up from the site config. -->
 {% assign author = site.data.authors.[page.author] %}
 
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.git }}" target="_blank">{{ author.name }}</a>
-    </span>
-{% endif %}
+
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-title-footer">
   <span class="post-date" style="display:inline-block">{{ page.date | date_to_string }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Por <a href="{{ author.twitter }}" target="_blank">{{ author.name }}</a>
+    </span>
+{% endif %}
   <span class="post-tag-box" style="display:inline-block;">
    {% for item in (0..page.tags.size) %}{% unless forloop.last %}
      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
