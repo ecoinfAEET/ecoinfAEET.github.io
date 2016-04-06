@@ -27,7 +27,7 @@ Una vez que hayas hecho las aportaciones (con los commits correspondientes) de t
 git push origin master
 {% endhighlight %} 
 
-Finalmente es necesario realizar un **pull request** al repositorio oficial del proyecto. Se trata de una operación que añade tus contribuciones al repositorio oficial. Para ello basta con hacer click al icono que aparece en la página oficial de tu repositorio remoto en el lado derecho que dice: `Pull Request y luego hacer clic en `New pull request`. Es necesario seleccionar el branch del repositorio oficial donde quieres agregar tus contribuciones (en este caso es el `master`) y el branch donde están tus cambios reaizados. 
+Finalmente es necesario realizar un **pull request** al repositorio oficial del proyecto. Se trata de una operación que añade tus contribuciones al repositorio oficial. Para ello basta con hacer click al icono que aparece en la página oficial de tu repositorio remoto en el lado derecho que dice: `Pull Request` y luego hacer clic en `New pull request`. Es necesario seleccionar el branch del repositorio oficial donde quieres agregar tus contribuciones (en este caso es el `master`) y el branch donde están tus cambios reaizados. 
 
 De esta forma se ha generado la solicitud para integrar tu contenido en el repositorio del grupo de trabajo de Ecoinformática de la AEET. Y lo último sería esperar a que alguno de los administradores revisen los cambios realizados y acepten la solicitud. 
 
