@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publicar Contenido
-author: antonioj_perez
+author: [antonioj_perez, ecoinfAEET]
 tags: [web, github, compartir datos]
 --- 
 

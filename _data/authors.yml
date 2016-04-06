@@ -1,7 +1,11 @@
-sara_varela:
-  name: Sara Varela
-  github: SaraVarela
-  twitter: _Sara_Varela
+antonioj_perez:
+  name: Antonio J. Pérez-Luque
+  github: ajpelu
+  twitter: ajpelu
+ecoinfAEET:
+  name: Ecoinformática_AEET
+  github: ecoinfAEET
+  twitter: ecoinf_aeet
 ignasi_bartomeus:
   name: Ignasi Bartomeus
   github: ibartomeus
@@ -10,7 +14,7 @@ paco_rodriguez:
   name: Francisco Rodriguez-Sanchez
   github: Pakillo
   twitter: frod_san
-antonioj_perez:
-  name: Antonio J. Perez-Luque
-  github: ajpelu
-  twitter: ajpelu
+sara_varela:
+  name: Sara Varela
+  github: SaraVarela
+  twitter: _Sara_Varela
