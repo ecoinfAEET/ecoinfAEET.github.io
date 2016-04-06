@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publicar Contenido
-tag: web
+tags: [web, github, compartir datos]
 --- 
 
 # Instrucciones para escribir entradas. 
