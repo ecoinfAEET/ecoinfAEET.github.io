@@ -9,12 +9,7 @@ layout: default
   {{ content }}
 </div>
 
-<!-- Tags -->
-<ul class="tags">
-  {% for tag in page.tags %}
-    <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
-  {% endfor %}
-</ul>
+{% assign tag_words = page.tags %}
 
 <!-- Related post -->
 <div class="related">
