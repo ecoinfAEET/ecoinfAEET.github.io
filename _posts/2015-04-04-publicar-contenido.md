@@ -15,13 +15,20 @@ A continuación os indicamos unas instrucciones básicas para poder escribir ent
 
 * Las entradas o posts se generan en formato [Markdown](https://daringfireball.net/projects/markdown/) y han de tener la extensión `.md` 
 
-* Cada entrada empieza con un trozo de código en formato YAML (`Front Matter`). Se trata de unas líneas de código que especifican las características que tendrá la entrada, como por ejemplo la plantilla, el título, y otra serie de variables. 
- * Utilizamos tres guiones al inicio y al final para identifcar que se trata de la información preliminar YAML 
+* Cada entrada empieza con un trozo de código donde se especifican las características que tendrá la entrada, como por ejemplo la plantilla, el título, y otra serie de variables.
 
 * El **nombre del archivo** ha de seguir la siguiente estructura: `YEAR-MONTH-DAY-title.md` 
 
 * Las entradas se alojarán en la carpeta `_posts`
 
+## Encabezado en cada entrada
+Al inicio de cada entrada hemos de especificar algunas variables de configuración en formato YAML (`Front Matter`). Son unas líneas de código delimitadas por tres guiones (`---`) al inicio y al final de este bloque de código. 
+
+* **layout**: tipo de plantilla que utilizaremos en la entrada
+* **title**: Título de la entrada
+* **author**: Autor de la entrada 
+* **tags**: etiquetas que queramos asignar a la entrada 
+ 
 ## Añadir elementos a nuestra entrada
 
 ### Código 
