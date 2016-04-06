@@ -4,8 +4,6 @@ layout: default
 
 {% assign tag_words = page.tags %}
 
-<!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -16,6 +14,9 @@ layout: default
      {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
      <a href="{{ site.url }}tags/#{{ this_word | escape_cgi }}"><i class="fa fa-tags fa-rotate-90 fa-sm"></i>{{ this_word }}</a>
    {% endunless %}{% endfor %}
+  </span>
+  <span class="author-name">
+  {{ site.data.authors.[page.author].name }}
   </span>
   </div>
   {{ content }}
