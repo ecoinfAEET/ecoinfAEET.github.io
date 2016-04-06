@@ -54,7 +54,6 @@ El campo `author` identifica la persona que escribe la entrada. Para ello antes 
 
 Un ejemplo del encabezado sería: 
 
-{% highlight text %}
 {% raw %}{% highlight r %}{% endraw %}
 ---
 layout: post
@@ -63,7 +62,7 @@ author: ecoinfAEET
 tags: [R, compartir datos, ciencia reproducible]
 --- 
 {% raw %}{% endhighlight %}{% endraw %} 
-{% endhighlight %}
+
  
 ## Añadir elementos a nuestra entrada
 
@@ -100,6 +99,8 @@ Por ejemplo para incluir la imagen `ecoinf_10.jpg` el código sería:
 {% highlight text %}
 ![logo]({% raw %}{{ site.url }}{% endraw %}/images/logo/ecoinf_10.jpg)
 {% endhighlight %}
+
+y el resultado sería la siguiente imagen: 
 
 ![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
 
