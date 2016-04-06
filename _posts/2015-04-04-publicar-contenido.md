@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publicar Contenido
+tag: web
 --- 
 
 # Instrucciones para escribir entradas. 
