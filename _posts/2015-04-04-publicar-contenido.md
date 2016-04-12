@@ -61,7 +61,7 @@ title: Manipular datos en R
 author: ecoinfAEET
 tags: [R, compartir datos, ciencia reproducible]
 --- 
-{% raw %}
+{% endraw %}
 
  
 ## Añadir elementos a nuestra entrada
