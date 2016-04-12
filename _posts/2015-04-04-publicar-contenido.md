@@ -54,14 +54,14 @@ El campo `author` identifica la persona que escribe la entrada. Para ello antes 
 
 Un ejemplo del encabezado sería: 
 
-{% raw %}
+{% highlight text %}
 ---
 layout: post
 title: Manipular datos en R
 author: ecoinfAEET
 tags: [R, compartir datos, ciencia reproducible]
 --- 
-{% endraw %}
+{% endhighlight %}
 
  
 ## Añadir elementos a nuestra entrada
