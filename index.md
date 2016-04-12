@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página Principal
+title: Pagina Principal
 ---
 
 ![logo]({{ site.url }}/images/logo/ecoinf_10.jpg)
