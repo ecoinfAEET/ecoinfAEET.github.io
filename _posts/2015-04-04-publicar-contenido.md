@@ -5,13 +5,17 @@ author: ecoinfAEET
 tags: [web, github, compartir datos]
 --- 
 
-# Instrucciones para escribir entradas. 
+# Instrucciones para escribir entradas
+
 Esta web está está creada con [Jekyll](https://jekyllrb.com/), un generador de sitios web (con estilo blog) muy sencillo. Partiendo de una serie de plantillas convierte archivos de texto plano (con algunas especificaciones) en entradas de una web. 
 
-Jekyll es el motor que ha detrás de las páginas de GitHub, por lo que se puede utilizar para acoger sitios webs, blogs o páginas de cursos alojándolos directamente en GitHub de una forma gratuita. 
+Jekyll es el motor que hay detrás de las páginas de GitHub, por lo que se puede utilizar para acoger sitios webs, blogs o páginas de cursos alojándolos directamente en GitHub de una forma gratuita. 
 
 # Acceso al repositorio 
-El primer paso para poder aportar contenido es crear un **fork** del [repositorio](https://github.com/ecoinfAEET/ecoinfAEET.github.io). Se trata de una copia del repositorio en tu cuenta de github. 
+
+Para poder modificar o subir contenido al repositorio es necesario estar dado de alta en [GitHub](https://github.com) (gratuito).
+
+El primer paso para poder aportar contenido es crear un **fork** del [repositorio](https://github.com/ecoinfAEET/ecoinfAEET.github.io). Se trata de una copia del repositorio en tu cuenta de GitHub. 
 
 Posteriormente es necesario **clonar** tu fork en tu equipo. Para ello has de teclear el siguiente comando: 
 
@@ -19,7 +23,7 @@ Posteriormente es necesario **clonar** tu fork en tu equipo. Para ello has de te
 git clone git@github.com:usuario/ecoinfAEET.github.io.git
 {% endhighlight %} 
 
-sustituyendo `usuario` por tu usuario de github. Con esto obtendrás una copia local (clone) de tu fork. 
+sustituyendo `usuario` por tu usuario de GitHub. Con esto obtendrás una copia local (clone) de tu fork. 
 
 Una vez que hayas hecho las aportaciones (con los commits correspondientes) de tus cambios en el repositorio local, es necesario actualizar tu repositorio remoto. Para ello utilizas el comando: 
 
@@ -31,18 +35,25 @@ Finalmente es necesario realizar un **pull request** al repositorio oficial del 
 
 De esta forma se ha generado la solicitud para integrar tu contenido en el repositorio del grupo de trabajo de Ecoinformática de la AEET. Y lo último sería esperar a que alguno de los administradores revisen los cambios realizados y acepten la solicitud. 
 
+Tienes una guía más detallada de todo el proceso [aquí](https://guides.github.com/activities/forking/).
+
+
 # ¿Cómo escribir entradas? 
-A continuación os indicamos unas instrucciones básicas para poder escribir entradas o posts. Para cualquier duda podéis consultar la documentación oficial de [Jekyll](https://jekyllrb.com/docs/home/) o contactar con nosotros [ecoinf.aeet@gmail.com](mailto:ecoinf.aeet@gmail.com). 
+
+En la carpeta `_drafts` hay una plantilla que puede utilizarse para escribir nuevos posts. A continuación os indicamos unas instrucciones básicas para poder escribir entradas o posts. 
 
 * Las entradas o posts se generan en formato [Markdown](https://daringfireball.net/projects/markdown/) y han de tener la extensión `.md` 
 
-* Cada entrada empieza con un trozo de código donde se especifican las características que tendrá la entrada, como por ejemplo la plantilla, el título, y otra serie de variables.
-
-* El **nombre del archivo** ha de seguir la siguiente estructura: `YEAR-MONTH-DAY-title.md` 
+* El **nombre del archivo** ha de seguir la siguiente estructura: `YEAR-MONTH-DAY-title-of-the-post.md` 
 
 * Las entradas se alojarán en la carpeta `_posts`
 
+* Cada entrada empieza con un trozo de código donde se especifican las características que tendrá la entrada, como por ejemplo la plantilla, el título, y otra serie de variables.
+
+
+
 ## Encabezado en cada entrada
+
 Al inicio de cada entrada hemos de especificar algunas variables de configuración en formato YAML (`Front Matter`). Se trata de un bloque de código delimitado por tres guiones (`---`).
 
 * **layout**: tipo de plantilla que utilizaremos en la entrada. Por defecto utilizaremos el valor `post` 
@@ -87,7 +98,7 @@ y = rep(10,50, by=10))
 
 ### Imágenes 
 * Todas las imágenes tiene que estar alojadas dentro la carpeta `/images/` 
-* Las sintáxis para incluir una imagen en una entrada es similar a la utilizada por Markdown, con una pequeña modificación. Así escribiremos:  
+* Las sintaxis para incluir una imagen en una entrada es similar a la utilizada por Markdown, con una pequeña modificación. Así escribiremos:  
 
 
 {% highlight text %}
@@ -103,4 +114,8 @@ Por ejemplo para incluir la imagen `ecoinf_10.jpg` el código sería:
 y el resultado sería la siguiente imagen: 
 
 ![logo](http://ecoinfAEET.github.io/images/logo/ecoinf_10.jpg)
+
+
+
+Para cualquier duda podéis consultar la documentación oficial de [Jekyll](https://jekyllrb.com/docs/home/), los [tutoriales](https://guides.github.com/) o [ayuda](https://help.github.com/) de Github, o contactar directamente con nosotros [ecoinf.aeet@gmail.com](mailto:ecoinf.aeet@gmail.com). 
 
