@@ -26,4 +26,6 @@ Contacta con nosotros:
 [<i class="fa fa-list fa-2x"></i>](https://groups.google.com/forum/#!forum/ecoinformatica_aeet){:target="_blank"} 
 
 
-[Acerca de este grupo](about) 
+[Ver blog y noticias](blog) 
+
+
