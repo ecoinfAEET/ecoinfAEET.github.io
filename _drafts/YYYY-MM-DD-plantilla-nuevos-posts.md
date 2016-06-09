@@ -5,11 +5,21 @@ author: ecoinfAEET
 tags: [test, web]
 ---
 
-# Título del post
 
 Esta es una plantilla que puede utilizarse para escribir nuevas entradas o posts para la web.  [Aquí](http://ecoinfaeet.github.io/2015/04/04/publicar-contenido/) tenéis unas instrucciones detalladas de cómo contribuir.
 
+
 Recuerda modificar el título, autor y etiquetas que aparecen arriba del todo (formato `YAML`).
+
+El post debe escribirse en formato markdown.
+
+# Esto es un epígrafe
+
+## Esto es una subsección
+
+Esto va *en cursiva*.
+
+Esto va **en negrita**.
 
 Esto es un chunk de código:
 
