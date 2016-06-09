@@ -2,7 +2,6 @@
 _gh_pages
 _site
 .ruby-version
-
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -14,7 +13,6 @@ _site
 *.zip
 *.vi
 *~
-
 # OS or Editor folders
 .DS_Store
 ._*
@@ -28,15 +26,14 @@ nbproject
 *.sublime-project
 *.sublime-workspace
 .idea
-
 # Komodo
 *.komodoproject
 .komodotools
-
 # grunt-html-validation
 validation-status.json
 validation-report.json
-
 # Folders to ignore
 node_modules
 bower_components
+.Rproj.user
+ecoinfAEET.github.io.Rproj

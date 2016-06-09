@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archivo
+title: Blog
 ---
 
 ## Blog Posts
