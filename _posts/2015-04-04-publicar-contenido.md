@@ -13,7 +13,7 @@ Jekyll es el motor que hay detrás de las páginas de GitHub, por lo que se pued
 
 # Acceso al repositorio 
 
-Para poder modificar o subir contenido al repositorio es necesario estar dado de alta en [GitHub](https://github.com) (gratuito).
+Para poder modificar o subir contenido al repositorio es necesario estar dado de alta en [GitHub](https://github.com) (gratuito). Aquí esbozamos unas instrucciones básicas de cómo contribuir cambios. Si prefieres no usar GitHub, simplemente envíanos tu post a ecoinf.aeet@gmail.com (en formato texto o markdown) y nosotros lo subiremos.
 
 El primer paso para poder aportar contenido es crear un **fork** del [repositorio](https://github.com/ecoinfAEET/ecoinfAEET.github.io). Se trata de una copia del repositorio en tu cuenta de GitHub. 
 
@@ -97,6 +97,7 @@ y = rep(10,50, by=10))
 {% endhighlight %} 
 
 ### Imágenes 
+
 * Todas las imágenes tiene que estar alojadas dentro la carpeta `/images/` 
 * Las sintaxis para incluir una imagen en una entrada es similar a la utilizada por Markdown, con una pequeña modificación. Así escribiremos:  
 
