@@ -37,3 +37,4 @@ node_modules
 bower_components
 .Rproj.user
 ecoinfAEET.github.io.Rproj
+.Rhistory
