@@ -30,15 +30,15 @@
       {% if site.author.email %}
         <a href="mailto: {{ site.author.email }}">
           <span class="fa-stack fa-lg">
-            <i class="fa fa-rss fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-2x"></i>
           </span>
         </a>
       {% endif %}
 
-      {% if site.rss %}
+      {% if site.author.rss %}
         <a href="{{ site.url }}/atom.xml">
           <span class="fa-stack fa-lg">
-            <i class="fa fa-rss-square fa-stack-2x"></i>
+            <i class="fa fa-rss fa-stack-2x"></i>
           </span>
         </a>
       {% endif %}
