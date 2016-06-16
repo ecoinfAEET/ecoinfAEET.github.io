@@ -20,6 +20,7 @@ author:
   url:               https://twitter.com/ecoinf_aeet
   email:             ecoinf.aeet@gmail.com
   gravatar_md5:      4d17cceb49d4c54821502290f90d4041
+  rss:               atom.xml
 
 # Custom vars
 version:             1.0.0
