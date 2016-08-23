@@ -5,7 +5,7 @@ author: ecoinfAEET
 tags: [reproducibilidad]
 ---
 
-- Read our article on ['Reproducible Science: What, Why, How'](https://github.com/ecoinfAEET/Reproducibilidad/raw/master/Reproms_withsuppl.pdf){:target="_blank"} (in Spanish) 
+- Read our article on ['Reproducible Science: What, Why, How'](http://www.revistaecosistemas.net/index.php/ecosistemas/article/download/1178/973){:target="_blank"} (in Spanish) 
 
 - Watch video: [Non-reproducible workflows: a horror movie](https://youtu.be/s3JldKoA0zw){:target="_blank"}
 
